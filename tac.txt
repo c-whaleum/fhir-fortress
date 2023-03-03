@@ -1,0 +1,25 @@
+Terms and Conditions for InfinityAI FHIR Fortress
+
+Welcome to InfinityAI FHIR Fortress. These terms and conditions ("Terms") govern your use of our web app. By using InfinityAI FHIR Fortress, you agree to these Terms. If you do not agree to these Terms, do not use InfinityAI FHIR Fortress.
+
+Use of InfinityAI FHIR Fortress
+You may use InfinityAI FHIR Fortress only for lawful purposes and in accordance with these Terms. You agree not to use InfinityAI FHIR Fortress for any illegal or unauthorized purpose or in a way that violates any laws or regulations.
+
+Ownership and Intellectual Property
+InfinityAI FHIR Fortress and its entire contents, features, and functionality, including but not limited to all information, software, text, displays, images, video, and audio, are owned by us or our licensors and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
+
+You may not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any of the material on InfinityAI FHIR Fortress except as generally and ordinarily permitted under these Terms or as expressly permitted in writing by us.
+
+User Content
+You may submit content to InfinityAI FHIR Fortress ("User Content"). You retain ownership of your User Content. By submitting User Content, you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use, copy, modify, create derivative works based on, distribute, publicly display, publicly perform, and otherwise exploit in any manner such User Content in all formats and distribution channels now known or hereafter devised (including in connection with InfinityAI FHIR Fortress and our business and on third-party sites and services), without further notice to or consent from you, and without the requirement of payment to you or any other person or entity.
+
+You represent and warrant that: (i) you either are the sole and exclusive owner of all User Content or you have all rights, licenses, consents, and releases that are necessary to grant to us the rights in such User Content, as contemplated under these Terms; and (ii) neither the User Content, nor your submission, uploading, publishing, or otherwise making available of such User Content, nor our use of the User Content as permitted herein will infringe, misappropriate, or violate a third party's patent, copyright, trademark, trade secret, moral rights, or other proprietary or intellectual property rights, or rights of publicity or privacy, or result in the violation of any applicable law or regulation.
+
+Disclaimer of Warranties
+InfinityAI FHIR Fortress is provided on an "as is" and "as available" basis. We make no representations or warranties of any kind, express or implied, as to the operation of InfinityAI FHIR Fortress or the information, content, materials, or products included on InfinityAI FHIR Fortress. You expressly agree that your use of InfinityAI FHIR Fortress is at your sole risk.
+
+Limitation of Liability
+In no event shall we be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or relating to these Terms or your use of InfinityAI FHIR Fortress.
+
+Indemnification
+You agree to indemnify, defend, and hold us and our affiliates, officers, directors, agents, and employees harmless from any and all claims, demands, damages, losses, liabilities, costs, and expenses, including reasonable attorneys' fees, arising out of or in connection with your use of [Your

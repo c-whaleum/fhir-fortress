@@ -1,0 +1,10 @@
+Privacy Policy for InfinityAI FHIR Fortress
+At InfinityAI FHIR Fortress, we take your privacy seriously. This Privacy Policy describes how we collect, use, and protect your personal information when you use our web app. By using InfinityAI FHIR Fortress, you agree to the terms of this Privacy Policy.
+Information We Collect
+When you use InfinityAI FHIR Fortress, we may collect certain information about you, including:
+* Personal information: We may collect your name, email address, and other personal information that you voluntarily provide to us when you sign up for an account, contact us, or use our services.
+* Usage information: We may collect information about how you use InfinityAI FHIR Fortress, such as your IP address, device information, and usage data. We may use cookies, web beacons, and other tracking technologies to collect this information.
+How We Use Your Information
+We may use the information we collect for the following purposes:
+* To provide and improve our services: We use your information to operate and improve InfinityAI FHIR Fortress and to personalize your experience.
+* To communicate with you: We may use your email address to send you updates about InfinityAI FHIR Fortress and to respond to your inquiries
