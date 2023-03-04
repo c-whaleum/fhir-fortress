@@ -8,6 +8,7 @@ WORKDIR /usr/src/app
 COPY package*.json ./
 
 # Install app dependencies
+RUN npm install -g @nestjs/cli
 RUN npm install
 
 # Bundle app source
@@ -17,4 +18,4 @@ COPY . .
 RUN npm run build
 
 # Start the server using the production build
-CMD [ "node", "dist/main.js" ]
+CMD [ "nest", "start" ]
