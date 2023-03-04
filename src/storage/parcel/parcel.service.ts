@@ -21,7 +21,6 @@ export class ParcelService {
         });
         this.client = parcel;
         this.initOwner();
-        this.initDatabase()
         console.log(this.client);
     }
 
@@ -29,36 +28,6 @@ export class ParcelService {
         this.owner = await this.client.getCurrentIdentity();
     }
 
-    private async initDatabase() {
-        const dbName = 'FortressDB-1';
-        let db;
-        try {
-            db = await this.client.createDatabase({ name: dbName });
-            console.log(`Created database ${db.id} with name: ${db.name}`);
-         } catch (error) {
-            console.log(`DB ${dbName} already exists`);
-         }
-
-        const allDatabases = (
-            await this.client.listDatabases({
-              owner: this.owner.id,
-            })
-        ).results;
-        for (const d of allDatabases) {
-            console.log(`Found database ${d.id} with name: ${d.name}`);
-        }
-
-        const createPatientsTable = {
-            sql: 'CREATE TABLE patients_test_1 (id TEXT, first_name TEXT)',
-            params: {},
-        };
-        try {
-            await this.client.queryDatabase(db.id, createPatientsTable);
-            console.log(`Created patients_test_1 table`);
-        } catch (error) {
-            console.log(`error creating patients_test_1`);
-        }
-    }
 
     async getAllDatabases() {
         return await this.client.listDatabases({ owner: this.owner.id });
