@@ -9,6 +9,6 @@ export class StorageService {
     }
     
     getDatabases() {
-        return this.parcelService.getAllDatabases();
+        return []
     }
 }

@@ -6,8 +6,4 @@ import { ParcelService } from './parcel.service';
 export class ParcelController {
     constructor(private parcelService: ParcelService){}
 
-    @Get() 
-    getParcel() {
-        return this.parcelService.getAllDatabases();
-    }
 }
